@@ -1,0 +1,11 @@
+---
+title: "ESM 244 Lab Week 2"
+author: "Catherine Takata"
+date: "1/23/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
